@@ -6,9 +6,9 @@ function RenegadeMediaLogo() {
     <>
       <div className="wrapper">
         <div className="cracked">
-          <span>Renegade&nbsp;</span>
-          <span>Renegade&nbsp;</span>
-          <span>Renegade&nbsp;</span>
+          <span>Renegade&nbsp;&nbsp;</span>
+          <span>Renegade&nbsp;&nbsp;</span>
+          <span>Renegade&nbsp;&nbsp;</span>
         </div>
         <div className="cracked">
           <span>Media</span>

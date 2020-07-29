@@ -1,6 +1,8 @@
 import React from "react";
 import RMLogo from "./RenegadeMediaLogo/RenegadeMediaLogo";
-import Logo from "./assets/JustFist.png";
+import Flip from "react-reveal/Flip";
+import Fade from "react-reveal/Fade";
+import Logo from "./assets/GreenFist.png";
 // import logo from "./logo.svg";
 import "./App.css";
 
@@ -8,8 +10,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={Logo} className="App-logo" alt="logo" />
-        <RMLogo />
+        <Flip>
+          <img src={Logo} className="App-logo" alt="logo" />
+        </Flip>
+        <Fade bottom>
+          <RMLogo />
+        </Fade>
       </header>
     </div>
   );
