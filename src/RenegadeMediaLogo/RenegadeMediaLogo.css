@@ -70,7 +70,55 @@
 }
 
 @media screen and (max-width: 1090px) {
-  .wrapper {
-    display: inline-block;
+  .cracked {
+    font-size: 6rem;
+  }
+}
+
+@media screen and (max-width: 970px) {
+  .cracked {
+    font-size: 5rem;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .cracked {
+    font-size: 4.5rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .cracked {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .cracked {
+    font-size: 3.5rem;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .cracked {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .cracked {
+    font-size: 2.5rem;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .cracked {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cracked {
+    font-size: 1.5rem;
   }
 }

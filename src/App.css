@@ -49,3 +49,81 @@ body {
 body {
   background: #000;
 }
+
+@media screen and (max-width: 1090px) {
+  .App-logo {
+    margin-top: 6vmin;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .App-logo {
+    margin-top: 7.5vmin;
+  }
+}
+
+@media screen and (max-width: 970px) {
+  .App-logo {
+    margin-top: 7.5vmin;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .App-logo {
+    margin-top: 8.5vmin;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .App-logo {
+    margin-top: 10.5vmin;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .App-logo {
+    margin-top: 8.5vmin;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .App-logo {
+    margin-top: 9.5vmin;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .App-logo {
+    margin-top: 11.5vmin;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .App-logo {
+    margin-top: 18.5vmin;
+  }
+}
+
+@media screen and (max-width: 411px) {
+  .App-logo {
+    margin-top: 28.5vmin;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .App-logo {
+    margin-top: 28.5vmin;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .App-logo {
+    margin-top: 38.5vmin;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .App-logo {
+    margin-top: 38.5vmin;
+  }
+}
