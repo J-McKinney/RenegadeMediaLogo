@@ -8,6 +8,8 @@
 }
 
 .cracked {
+  /* Need to try this to see if it makes it more legible */
+  /* -webkit-text-stroke-color: black; */
   font-family: Coolvetica, Arial;
   font-size: 7rem;
   color: #fff;
